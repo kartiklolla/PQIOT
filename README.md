@@ -13,6 +13,9 @@ Verilator, no OS) and talks over the simulated SoC's Ethernet to the server
 on the host. The same session code also runs natively, under Linux on
 RISC-V, and over TLS/DTLS 1.3.
 
+## Video
+The video can be viewed [here](https://youtu.be/u2w_Z0BE5oo).
+
 ## Build
 
 ```bash
